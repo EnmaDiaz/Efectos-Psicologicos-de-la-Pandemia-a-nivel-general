@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+#contenedor{
+    height: auto;
+    width: 800px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #9acef8 ;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 250px;
+}
+
+.J{
+    height: 300px;
+    width: 300px;
+}
+
+.O{
+    height: 250px;
+    width: 300px;
+}
+
+.m{
+    width: 400px;
+    height: 320px;
+}
+
+.cs{
+    height: 300px;
+    width: 300px;
+}
+
+.d{
+    height: 300px;
+    width: 300px;
+}
